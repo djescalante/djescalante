@@ -26,14 +26,14 @@ Me caracterizo por mi liderazgo, capacidad analítica, orientación al detalle y
 | Área | Tecnologías / Herramientas |
 |------|-----------------------------|
 | **Sistemas y Servidores** | Windows Server (2008–2019), Active Directory, Políticas de Grupo, Acronis / Iperius Backup |
-| **Virtualización y Cloud** | VMware ESXi, AWS (EC2, RDS, S3), Elastic Beanstalk |
+| **Virtualización y Cloud** | VMware ESXi, AWS (EC2, RDS, S3,Lamda), Elastic Beanstalk |
 | **Contenedores y Orquestación** | 🐳 Docker, ☸️ Kubernetes (HPA, Metrics Server, YAML manifests) |
 | **Bases de Datos** | SQL Server, MySQL |
 | **Ciberseguridad** | Hardening, RMF, CSF, Firewall Fortinet, Análisis de vulnerabilidades |
 | **Programación y Desarrollo Web** | Python, Java, HTML, CSS |
 | **Data & BI** | Power BI, Excel avanzado, ETL, Análisis de datos |
 | **Ofimática** | Microsoft 365, SharePoint, Teams |
-| **Metodologías** | ITIL 4, Scrum Fundamentals |
+| **Metodologías** | ITIL 4, Scrum Fundamentals, OKR |
 
 ---
 
