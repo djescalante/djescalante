@@ -1,7 +1,7 @@
 # 💼 José David Escalante
-
-**Administrador TI Senior · AWS, Datos y Ciberseguridad**
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=339933&center=true&vCenter=true&width=800&lines=Ingeniero+de+Sistemas+%7C+Administrador+TI+Senior;Infraestructura+en+la+Nube+%28AWS%29+%2B+Virtualizaci%C3%B3n+%28ESXi%29;Ciberseguridad+%2B+Pol%C3%ADticas+NIST+%2B+Directorio+Activo;Bases+de+Datos+%2B+Anal%C3%ADtica+%2B+Integraci%C3%B3n+de+IA)](https://git.io/typing-svg)
+**Administrador TI Senior · AWS, Datos y Ciberseguridad**
+
 🌍 *Medellín, Colombia* · 📫 [jde.sistemas@gmail.com](mailto:jde.sistemas@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/jdeb1979/) · 💻 [GitHub](https://github.com/djescalante)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
