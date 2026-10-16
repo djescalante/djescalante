@@ -1,6 +1,10 @@
 # 💼 José David Escalante
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=339933&center=true&vCenter=true&width=800&lines=Ingeniero+de+Sistemas+%7C+Administrador+TI+Senior;Infraestructura+en+la+Nube+%28AWS%29+%2B+Virtualizaci%C3%B3n+%28ESXi%29;Ciberseguridad+%2B+Pol%C3%ADticas+NIST+%2B+Directorio+Activo;Bases+de+Datos+%2B+Anal%C3%ADtica+%2B+Integraci%C3%B3n+de+IA)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=339933&center=true&vCenter=true&width=800&lines=Ingeniero+de+Sistemas+%7C+Administrador+TI+Senior;Infraestrutura+en+la+Nube+%28AWS%29+%2B+Virtualizaci%C3%B3n+%28ESXi%29;Ciberseguridad+%2B+Pol%C3%ADticas+NIST+%2B+Directorio+Activo;Bases+de+Datos+%2B+Anal%C3%ADtica+%2B+Integraci%C3%B3n+de+IA" alt="Typing SVG" />
+  </a>
+</p>
 
 **Administrador TI Senior · AWS, Datos y Ciberseguridad**
 
